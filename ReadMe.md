@@ -1,6 +1,6 @@
 # 💫 About Me:
 ✋ Hi' I'm jrodr
-🔭 I’m currently working on<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on next gen Telegram bot<br>🌱 I’m currently learning <br>💬 Ask me about i enjoy making automat bot<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
